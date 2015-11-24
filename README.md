@@ -10,4 +10,4 @@ You can include it as:
 
 at the beginning of your Dockerfile
 
-This file is released under the [MIT license]
+This file is released under the [MIT license](https://opensource.org/licenses/MIT)
